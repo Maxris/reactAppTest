@@ -6,7 +6,7 @@ const MyComponent = () => {
 
   useEffect(() => {
     // Récupération des données via l'API
-    axios.get('http://localhost:3001/api/users')
+    axios.get('https://jsonplaceholder.typicode.com/users')
       .then((response) => {
         setData(response.data);
       })
