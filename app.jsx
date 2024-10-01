@@ -6,16 +6,16 @@ const MyComponent = () => {
 
   useEffect(() => {
     // Récupération des données via l'API
-    axios.get('https://api.example.com/data')
+    axios.get('http://localhost:3001/api/users')
       .then((response) => {
         setData(response.data);
       })
       .catch((error) => {
-        console.error("Erreur lors de la récupération des données:", error);
+        console.error("Error while getting data: ", error);
       });
   }, []);
 
-  if (!data) return <div>Chargement...</div>;
+  if (!data) return <div>Loading, please make me a coffee...</div>;
 
   return (
     <div>
