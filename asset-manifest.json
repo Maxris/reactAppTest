@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/git@github.com:Maxris/reactAppTest.git/static/css/main.f855e6bc.css",
+    "main.js": "/git@github.com:Maxris/reactAppTest.git/static/js/main.261a2d08.js",
+    "static/js/453.3233ef31.chunk.js": "/git@github.com:Maxris/reactAppTest.git/static/js/453.3233ef31.chunk.js",
+    "static/media/logo.svg": "/git@github.com:Maxris/reactAppTest.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/git@github.com:Maxris/reactAppTest.git/index.html",
+    "main.f855e6bc.css.map": "/git@github.com:Maxris/reactAppTest.git/static/css/main.f855e6bc.css.map",
+    "main.261a2d08.js.map": "/git@github.com:Maxris/reactAppTest.git/static/js/main.261a2d08.js.map",
+    "453.3233ef31.chunk.js.map": "/git@github.com:Maxris/reactAppTest.git/static/js/453.3233ef31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.261a2d08.js"
+  ]
+}
